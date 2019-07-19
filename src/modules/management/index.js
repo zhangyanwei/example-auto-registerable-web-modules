@@ -4,7 +4,7 @@ export default {
   menu () {
     return {
       text: '元数据管理',
-      icon: 'circle',
+      icon: 'tag',
       link: '/'
     }
   },

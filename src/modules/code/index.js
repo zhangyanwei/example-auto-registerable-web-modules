@@ -6,7 +6,7 @@ export default {
       setTimeout(function() {
         resolve({
           text: '编号管理',
-          icon: 'setting',
+          icon: 'code',
           link: '/'
         });
       }, 3000);
